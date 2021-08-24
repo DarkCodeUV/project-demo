@@ -1,3 +1,3 @@
 /*
-multiplication code
+multiplication code from multiplication 
 */
