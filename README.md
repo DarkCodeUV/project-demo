@@ -1,4 +1,4 @@
 #project-demo
-Demo project first commit
+Demo project second commit
 
-#v0.1 tag
+#v0.2 tag
